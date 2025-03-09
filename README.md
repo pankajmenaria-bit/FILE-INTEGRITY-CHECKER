@@ -22,6 +22,7 @@ Cybersecurity applications to ensure no malware/virus has modified the files.
 File transfer validation to ensure the file received is the same as the sender sent.
 Data security to detect unauthorized modifications or tampering of files.
 Integrity checking for downloaded software, patches, and security updates.
-#OUPUT 
+#OUTPUT 
+
 ![Image](https://github.com/user-attachments/assets/108402d5-e258-42de-980a-a63098029999)
 
